@@ -1,7 +1,2 @@
----
-description: Where you get what to take care of
----
+# Page 1
 
-# Getting started with new ideas
-
-The question is: out of hundreds ideas that come in my mind, which do I select for working on?
